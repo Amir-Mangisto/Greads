@@ -92,6 +92,5 @@ void GetReshoma(List<string> list, Proffesor obj)
 
 
 //void Getast1Studeninfo(List<string> studentLis, string studentName)
-//{
-//    studentLis.Add($"{studentName}");
+
 //}
